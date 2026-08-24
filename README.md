@@ -52,7 +52,7 @@ These controls allow users to filter the dashboard and explore different segment
 
 Dashboard Preview
 
-"Supermarket Sales Dashboard" (dashboard-preview.png)
+![Supermarket Sales Dashboard](dashboard-preview.png)
 
 Skills Demonstrated
 
