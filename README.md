@@ -69,4 +69,17 @@ Files
 - "dashboard-preview.png" — dashboard preview
 
 
-Betty Ejakpovi — Data Analyst (Excel · SQL · Power BI) LinkedIn · [PORTFOLIO] https://betsej.github.io/
+Author
+
+Betty Ejakpovi — Data Analyst | Excel · SQL · Power BI
+
+LinkedIn · Portfolio
+
+Author
+
+P0### Author
+
+**Betty Ejakpovi** — Data Analyst | Excel · SQL · Power BI
+
+[LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi) · [Portfolio](https://betsej.github.io/)
+
