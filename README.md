@@ -88,7 +88,7 @@ It also strengthened my ability to work with structured datasets, identify sales
 
 ## Author
 
-**Betty Ejakpovi** — Data Analyst | Excel · SQL · Power BI
+**Orherime Betty Ejakpovi** — Data Analyst | Excel · SQL · Power BI
 
 [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi) · [Portfolio](https://betsej.github.io/)
 
