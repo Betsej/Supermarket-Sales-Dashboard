@@ -1,83 +1,92 @@
-Supermarket Sales Dashboard
+# Supermarket Sales Dashboard | Excel
 
-Project Overview
+An interactive Excel dashboard built to analyse supermarket sales performance, customer purchasing patterns, and product line revenue.
 
-An interactive Excel dashboard built from a 1,000-record supermarket sales dataset. The dashboard uses PivotTables, PivotCharts, and slicers to summarize and explore sales performance across cities, customer types, gender, and product lines.
+## Project Overview
 
-Project Objective
+This project uses supermarket sales data to explore business performance across different cities, product lines, customer types, and payment methods. The dashboard presents key metrics and trends in a visual format to make the data easier to understand and use for decision-making.
 
-To transform supermarket sales data into an interactive dashboard that makes it easier to monitor revenue, compare product performance, and explore customer and location-based trends.
+## Business Problem
 
-Tools and Techniques
+Supermarkets generate sales data across multiple products, locations, and customer groups. Without a clear summary, it can be difficult to identify which product lines perform best, which locations generate the most revenue, and how different customer groups contribute to sales.
 
-- Microsoft Excel
-- PivotTables
-- PivotCharts
-- Slicers
-- Data aggregation and analysis
-- Dashboard design and data visualization
+This project addresses that challenge by organising the data into an interactive dashboard that makes important sales patterns easier to identify.
 
-Analysis Performed
+## Project Objectives
 
-The dashboard analyzes:
+* Analyse overall sales and revenue performance.
+* Compare performance across cities and product lines.
+* Examine purchasing patterns by customer type and gender.
+* Explore payment methods and customer purchasing behaviour.
+* Present key findings in a dashboard that supports data-driven decisions.
 
-- Total revenue
-- Total sales
-- Revenue by city
-- Revenue by customer type
-- Revenue by gender
-- Revenue by product line
-- Product performance by city
-- Revenue by gender and product line
+## Tools Used
 
-Key Insights
+* **Microsoft Excel**
+* PivotTables and PivotCharts
+* Data cleaning and preparation
+* Excel formulas and aggregations
+* Interactive dashboard design
+* Data visualisation
 
-- The dataset generated total revenue of 351,498.77.
-- Total sales were 307,587.38, with 43,911.39 in tax.
-- Naypyitaw generated the highest total revenue at 121,351.11.
-- Fashion accessories was the best-performing product line by revenue at 62,055.88.
-- Members generated slightly more revenue than normal customers: 50.98% versus 49.02%.
-- Female customers generated more revenue (182,578.11) than male customers (168,920.66).
-
-Interactive Features
-
-The dashboard includes slicers for:
-
-- City
-- Customer type
-- Gender
-- Product line
-
-These controls allow users to filter the dashboard and explore different segments of the sales data.
-
-Dashboard Preview
+## Dashboard Preview
 
 ![Supermarket Sales Dashboard](dashboard-preview.png)
 
-Skills Demonstrated
+## Key Performance Indicators
 
-- Business data analysis
-- PivotTable creation and summarization
-- Interactive dashboard development
-- Data visualization
-- Sales and customer analysis
-- Communicating insights through visual reporting
+The dashboard highlights key business metrics, including:
 
-Files
+* **Total Revenue:** Overall revenue generated from sales.
+* **Total Sales:** Total sales value recorded in the dataset.
+* **Total Tax:** Tax collected across transactions.
+* **Revenue by City:** Comparison of revenue generated across supermarket locations.
+* **Revenue by Product Line:** Identification of product categories contributing to revenue.
+* **Customer Type:** Comparison of revenue from member and normal customers.
 
-- "Supermarket_Sales_Dashboard.xlsx" — interactive Excel dashboard and supporting PivotTables
-- "dashboard-preview.png" — dashboard preview
+## Key Insights
 
+The analysis highlights differences in sales performance across locations, product categories, and customer groups.
 
-Author
+* **City performance:** Naypyitaw recorded the highest revenue among the cities analysed.
+* **Product performance:** Fashion accessories generated the highest revenue among the product lines.
+* **Customer type:** Member customers contributed approximately 50.98% of revenue, while normal customers contributed 49.02%.
+* **Sales performance:** The dashboard provides a consolidated view of revenue, sales, and tax to support comparisons across the business.
 
-Betty Ejakpovi — Data Analyst | Excel · SQL · Power BI
+These findings help demonstrate how spreadsheet analysis can turn transaction data into useful business information.
 
-LinkedIn · Portfolio
+## Interactive Features
 
-Author
+* Filter sales data to explore different business categories.
+* Compare performance across cities and product lines.
+* Examine customer segments and payment methods.
+* View key performance indicators alongside charts for easier interpretation.
 
-P0### Author
+*Note: Available filters and interactive features depend on the functionality implemented in the Excel workbook.*
+
+## Skills Demonstrated
+
+* Data cleaning and preparation
+* Exploratory data analysis
+* PivotTables and PivotCharts
+* KPI reporting
+* Dashboard development
+* Data visualisation
+* Business insight generation
+* Communicating findings for decision-making
+
+## Project Files
+
+* `Supermarket_Sales_Dashboard.xlsx` — Excel workbook containing the dashboard and analysis.
+* `dashboard-preview.png` — Dashboard preview displayed in this README.
+
+## Conclusion
+
+This project demonstrates how Microsoft Excel can be used to analyse supermarket transactions, monitor business performance, and communicate findings through an interactive dashboard.
+
+It also strengthened my ability to work with structured datasets, identify sales patterns, and present information in a format that supports business decision-making.
+
+## Author
 
 **Betty Ejakpovi** — Data Analyst | Excel · SQL · Power BI
 
