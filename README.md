@@ -67,3 +67,6 @@ Files
 
 - "Supermarket_Sales_Dashboard.xlsx" — interactive Excel dashboard and supporting PivotTables
 - "dashboard-preview.png" — dashboard preview
+
+
+Betty Ejakpovi — Data Analyst (Excel · SQL · Power BI) LinkedIn · [PORTFOLIO] https://betsej.github.io/
