@@ -57,7 +57,7 @@ These findings help demonstrate how spreadsheet analysis can turn transaction da
 
 ## Data Note
 
-The column labelled "Tax 5%" does not add up to 5% of sales. Recorded tax is 43.91K, which is 14.3% of sales (307.59K). In 117 of the 1,000 rows the tax is 10 or 1,000 times too large, which looks like a decimal-point error. Sales equals unit price × quantity in all 1,000 rows, so sales before tax is reliable. At the correct 5%, tax would be about 15.38K and revenue including tax would be 322.97K, so the recorded revenue of 351.50K is overstated by about 28.5K.
+The column labelled "Tax 5%" does not add up to 5% of sales. Recorded tax is 43.91K, which is 14.3% of sales (307.59K). In 117 of the 1,000 rows the tax is not 5% of sales, and in 115 of them it is 10 or 1,000 times too large, which looks like a decimal-point error.
 
 ## Interactive Features
 
