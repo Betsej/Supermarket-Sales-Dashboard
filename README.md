@@ -37,9 +37,9 @@ This project addresses that challenge by organising the data into an interactive
 
 The dashboard highlights key business metrics, including:
 
-* **Total Revenue:** Overall revenue generated from sales.
-* **Total Sales:** Total sales value recorded in the dataset.
-* **Total Tax:** Tax collected across transactions.
+* **Total Revenue:** Revenue as recorded in the dataset, including tax (see Data Note).
+* **Total Sales:** Total sales value before tax.
+* **Total Tax:** Tax as recorded in the dataset (see Data Note).
 * **Revenue by City:** Comparison of revenue generated across supermarket locations.
 * **Revenue by Product Line:** Identification of product categories contributing to revenue.
 * **Customer Type:** Comparison of revenue from member and normal customers.
@@ -49,11 +49,15 @@ The dashboard highlights key business metrics, including:
 The analysis highlights differences in sales performance across locations, product categories, and customer groups.
 
 * **City performance:** Naypyitaw recorded the highest revenue among the cities analysed.
-* **Product performance:** Fashion accessories generated the highest revenue among the product lines.
-* **Customer type:** Member customers contributed approximately 50.98% of revenue, while normal customers contributed 49.02%.
+* **Product performance:** Food and beverages generated the highest sales before tax (about 53.5K). Fashion accessories lead the dashboard's Revenue chart only because of the tax entry errors described in the Data Note.
+* **Customer type:** Member customers contributed approximately 50.85% of sales before tax, while normal customers contributed 49.15%.
 * **Sales performance:** The dashboard provides a consolidated view of revenue, sales, and tax to support comparisons across the business.
 
 These findings help demonstrate how spreadsheet analysis can turn transaction data into useful business information.
+
+## Data Note
+
+The column labelled "Tax 5%" does not add up to 5% of sales. Recorded tax is 43.91K, which is 14.3% of sales (307.59K). In 117 of the 1,000 rows the tax is 10 or 1,000 times too large, which looks like a decimal-point error. Sales equals unit price × quantity in all 1,000 rows, so sales before tax is reliable. At the correct 5%, tax would be about 15.38K and revenue including tax would be 322.97K, so the recorded revenue of 351.50K is overstated by about 28.5K.
 
 ## Interactive Features
 
@@ -67,6 +71,7 @@ These findings help demonstrate how spreadsheet analysis can turn transaction da
 ## Skills Demonstrated
 
 * Data cleaning and preparation
+* Data validation
 * Exploratory data analysis
 * PivotTables and PivotCharts
 * KPI reporting
@@ -84,11 +89,10 @@ These findings help demonstrate how spreadsheet analysis can turn transaction da
 
 This project demonstrates how Microsoft Excel can be used to analyse supermarket transactions, monitor business performance, and communicate findings through an interactive dashboard.
 
-It also strengthened my ability to work with structured datasets, identify sales patterns, and present information in a format that supports business decision-making.
+It also strengthened my ability to work with structured datasets, identify sales patterns, check data quality, and present information in a format that supports business decision-making.
 
 ## Author
 
 **Orherime Betty Ejakpovi** — Data Analyst | Excel · SQL · Power BI
 
 [LinkedIn](https://www.linkedin.com/in/orherime-ejakpovi) · [Portfolio](https://betsej.github.io/)
-
